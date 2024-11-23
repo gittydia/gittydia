@@ -36,7 +36,7 @@ My individual repository
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with backend and InfoTech stuff
-- 📫 How to reach me: yeogiyeogi394@gmail.com 
+- 📫 How to reach me: boholstdianne1@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have black cat, his name is batman
 
