@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Gitdia
+# Gittydia
 My individual repository 
 
 <div id="header" align="center">
