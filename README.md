@@ -32,7 +32,7 @@ My individual repository
 
 - :walking: Exploring Backend.
 
-- :zap: In my free time, I read books and tech related articles and news.
+- :zap: In my free time, I read books, tech related articles and news.
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with backend and InfoTech stuff
