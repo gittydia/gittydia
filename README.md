@@ -44,13 +44,13 @@
   <br/>
 
   <h2>📊 GitHub Stats</h2>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gittydia)](https://github.com/gittydia/github-readme-stats)
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=gittydia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittydia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
-  </div>
 
+
+[![](https://raw.githubusercontent.com/gittydia/gittydiastats/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gittydia/gittydiastats/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gittydia/gittydiastats/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gittydia/gittydiastats/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gittydia/gittydiastats/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  <br/>
   <br/><br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB1MHVneHZtOGFucXZ0bmY5bDlmcWtmOXpxZnRtMmVtYjR3eDgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300" style="border-radius: 10px;"/>
   
