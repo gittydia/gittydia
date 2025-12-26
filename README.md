@@ -45,6 +45,7 @@
 
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gittydia)](https://github.com/anuraghazra/github-readme-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=gittydia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittydia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
   </div>
