@@ -4,7 +4,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Backend+Developer;Student+at+RTU;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fff&center=true&vCenter=true&width=435&lines=Backend+Developer;Student+at+RTU;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -43,11 +43,10 @@
 
   <br/>
 
-  <!-- GitHub Stats (Similar to Kenan's Social Stats/Star History conceptually) -->
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gittydia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittydia&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gittydia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittydia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
   </div>
 
   <br/><br/>
