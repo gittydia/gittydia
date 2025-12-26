@@ -1,75 +1,56 @@
-### Hi there 👋
-# Gittydia
-My individual repository 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRtc3F4MncxcndjeXlzM2o0MWVtZXdxbzBtZTNqdnJqY296OGd6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="300"/>
-
-</div>
-
-<div id= "badges" align = "center" >
-  <img src="https://komarev.com/ghpvc/?username=gittydia&style=for-the-badge&color=blue" alt="views counter"/>
-  <a href= "https://www.linkedin.com/in/dianne-boholst">
-    <img src = "https://img.shields.io/badge/LinkedIn%3A%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue%2C%20white" alt ="LinkedIn badge"/>
-  </a>
-  <a href = "https://www.facebook.com/dianne.boholst.5?mibextid=ZbWKwL">
-    <img src = "https://img.shields.io/badge/Facebook%3A%20Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=blue%2C%20black" alt ="Facebook badge"/>
-  </a>
-  
-</div>
-<h1>
-  hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB1MHVneHZtOGFucXZ0bmY5bDlmcWtmOXpxZnRtMmVtYjR3eDgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="400" height="300"/>
-</div>
+  <!-- Dynamic Title similar to the "Hello" image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099FF&height=250&section=header&text=Hello,%20I'm%20Dianne!&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" width="100%"/>
 
----
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Backend+Developer;Student+at+RTU;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  </a>
 
-### :woman_technologist: About Me :
-- :computer: I do backend and I'm a student in Rizal Technology University.
+  <br/><br/>
 
-- :walking: Exploring Backend.
+  <!-- Connect with Me Section -->
+  <h2>🌐 Connect with Me</h2>
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="https://www.linkedin.com/in/dianne-boholst">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/dianne.boholst.5?mibextid=ZbWKwL">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="mailto:boholstdianne1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
 
-- :zap: In my free time, I read books, tech related articles and news.
+  <br/>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with backend and InfoTech stuff
-- 📫 How to reach me: boholstdianne1@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have black cat, his name is batman
+  <!-- About Me Section -->
+  <h2>👩‍💻 About Me</h2>
+  <p width="60%">
+    I'm a backend-focused student at <b>Rizal Technology University</b>.<br/>
+    I love solving complex problems and building efficient systems.<br/>
+    Currently exploring Python, Java, and Database Management.
+  </p>
 
----
+  <br/>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" title="Vs Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg" title = "Java" alt = "Java"
-    width = "40" height = "40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <!-- Tech Stack Section -->
+  <h1>Tech Stack</h1>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,vscode&theme=light&perline=7" alt="Tech Stack"/>
+  </p>
 
+  <br/>
 
+  <!-- GitHub Stats (Similar to Kenan's Social Stats/Star History conceptually) -->
+  <h2>📊 GitHub Stats</h2>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gittydia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittydia&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="180" alt="Top Languages" />
+  </div>
+
+  <br/><br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB1MHVneHZtOGFucXZ0bmY5bDlmcWtmOXpxZnRtMmVtYjR3eDgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300" style="border-radius: 10px;"/>
   
-  
-
 </div>
-
-<!--
-**gittydia/gittydia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
