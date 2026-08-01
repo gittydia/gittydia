@@ -244,7 +244,8 @@ def force_close_file(data, cache_comment):
 def stars_counter(data):
     total_stars = 0
     for node in data:
-        total_stars += node['node']['stargazers']['totalCount']
+        if node['node'] is not None:
+            total_stars += node['node']['stargazers']['totalCount']
     return total_stars
 
 
